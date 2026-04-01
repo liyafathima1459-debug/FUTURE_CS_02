@@ -48,12 +48,8 @@ and reduce their risk of falling victim to email-based attacks.
 
 ---
 
-## 📸 Screenshots
-### Report Preview
-![Phishing Report](screenshots/report_preview.png)
-
-### Email Analysis
-![Email Analysis](screenshots/email_analysis.png)
+## 📊 Charts & Visualizations
+![Phishing Detection Chart](task2_phishing_chart.png)
 
 ---
 
